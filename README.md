@@ -1,6 +1,27 @@
-# beacademy-devstart-gitgithub
+# Git e Github
 
-## Conhecendo Git e GitHub
+Projeto criado no programa DevStart PayLivre, para salvar dicas e comandos mais utilizados do *git* e da plataforma *github*.
 
+## Authors
 
+- [@amomsantos07](https://www.github.com/amomsantos07)
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
 
